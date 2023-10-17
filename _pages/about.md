@@ -37,10 +37,10 @@ We are part of the [Center of Machine Learning Research (CMLR)](https://cmlr.pku
 Together we enjoy working on **Data-centric Machine Learning**, **Graph Machine Learning**, 
 **Machine Learning Systems**, and **Interdisciplinary Applications**.
 
-[Talk to us](mailto:guido.salvaneschi@unisg.ch) or
+[Talk to us](mailto:wentao.zhang@pku.edu.cn) or
 [join our group]({{ '/open-positions' | relative_url }})
 when you are interested in these topics or our work.
-Students at HSG or TU Darmstadt,
+Students at PKU,
 please find [our courses, theses, and jobs]({{ '/teaching' | relative_url }}).
 {: class="clearfix"}
 
