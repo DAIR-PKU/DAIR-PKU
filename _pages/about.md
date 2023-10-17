@@ -8,17 +8,16 @@ sitetitle: true
 description: Welcome to the Programming Group at the University of St. Gallen and at the Technical University of Darmstadt. Team. Projects. Support.
 
 profile:
-    name: Prof. Dr. Guido Salvaneschi
-    position: Head of the Programming Group
+    name: Prof. Dr. Wentao Zhang
+    position: Head of the DAIR Group
     align: right
-    image: salvaneschi-profile.jpg
+    image: wentao.png
     href: '/members/salvaneschi'
-    email: guido.salvaneschi@unisg.ch
+    email: wentao.zhang@pku.edu.cn
     address: >
-        School of Computer Science<br />
-        Office 64-114<br />
-        Torstrasse 25<br />
-        9000 St. Gallen, Switzerland
+        Center of Machine Learning Research<br />
+        Courtyard No.6, Jingyuan<br />
+        PKU, Beijing, China
 
 news: true # includes a list of news items
 projects: true # includes a tile list of projects
@@ -33,12 +32,10 @@ social: false  # includes social icons at the bottom of the page
 > <i class="fas fa-quote-right"></i><br />
 > —&nbsp;Lewis Carroll
 
-Welcome to the Programming Group!
-We are part of the [Institute of Computer Science (ICS)](https://ics.unisg.ch/){: target="_blank"} at the [University of St. Gallen (HSG)](https://www.unisg.ch/){: target="_blank"}
-and have a branch at the [Technical University of Darmstadt](https://www.tu-darmstadt.de/){: target="_blank"}. 
-Together we enjoy working on **Programming Languages**
-and **Software Engineering**, including languages and architectures for
-**Distributed Systems**, **Reactive Programming**, **DevOps Organizations**, and **Secure Software Systems**.
+Welcome to the DAIR Group!
+We are part of the [Center of Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/){: target="_blank"} at the [University of Peking University (PKU)](https://www.pku.edu.cn/){: target="_blank"}. 
+Together we enjoy working on **Data-centric Machine Learning**, **Graph Machine Learning**, 
+**Machine Learning Systems**, and **Interdisciplinary Applications**.
 
 [Talk to us](mailto:guido.salvaneschi@unisg.ch) or
 [join our group]({{ '/open-positions' | relative_url }})
