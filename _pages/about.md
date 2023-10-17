@@ -33,7 +33,7 @@ social: false  # includes social icons at the bottom of the page
 > —&nbsp;Lewis Carroll
 
 Welcome to the DAIR Group!
-We are part of the [Center of Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/){: target="_blank"} at the [University of Peking University (PKU)](https://www.pku.edu.cn/){: target="_blank"}. 
+We are part of the [Center of Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/){: target="_blank"} at [Peking University (PKU)](https://www.pku.edu.cn/){: target="_blank"}. 
 Together we enjoy working on **Data-centric Machine Learning**, **Graph Machine Learning**, 
 **Machine Learning Systems**, and **Interdisciplinary Applications**.
 
