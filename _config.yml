@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Programming Group # the website title (if blank, full name will be used instead)
+title: DAIR Group # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
-last_name: Programming Group
-email: guido.salvaneschi@unisg.ch
+last_name: DAIR Group
+email: wentao.zhang@pku.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The Programming Group at the University of St. Gallen and at the Technical University of Darmstadt.
+  The DAIR Group at Peking University.
 footer_text: >
 #  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -45,12 +45,12 @@ og_image: /assets/img/og/pg.png # The site-wide (default for all links) Open Gra
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-twitter_username: prg_grp # your Twitter handle
+github_username: zwt233# your GitHub user name
+twitter_username:  # your Twitter handle
 youtube_channel: UCW60aqeksbbWTT-7sR6G97w # your YouTube channel id
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+scholar_userid: JE4VON0AAAAJ # your Google Scholar ID
+orcid_id: 0000-0002-7532-5550 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -79,7 +79,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: prg-grp # put your disqus shortname
+disqus_shortname: DAIR # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
