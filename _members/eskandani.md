@@ -18,7 +18,7 @@ teaser: >
 profile:
     name: MSc Nafise Eskandani
     align: right
-    image: eskandani-profile.jpg
+    image: ytgeng.jpg
     role: Doctoral Researcher
     email: nafise.eskandani@de.abb.com
     twitter: NEskandani
