@@ -19,8 +19,8 @@ profile:
     name: MSc Nafise Eskandani
     align: right
     image: ytgeng.jpg
-    role: Doctoral Researcher
-    email: nafise.eskandani@de.abb.com
+    role: Student Researcher
+    email: 2301213081@pku.edu.cn
     twitter: NEskandani
     orcid: 0000-0001-9761-6319
     address: >
