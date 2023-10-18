@@ -1,6 +1,6 @@
 ---
-layout: about
-inline: true
+layout: 
+inline: false
 title: graph-ML
 description: Graph Machine Learning.
 rank: 15
