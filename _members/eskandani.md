@@ -5,9 +5,9 @@ group: Doctoral Researchers
 group_rank: 3
 team_frontpage: true
 
-title: MSc Nafise Eskandani
+title: Yunteng Geng
 description: Profile of MSc Nafise Eskandani, Doctoral Researcher at the Programming Group.
-lastname: Eskandani
+lastname: Geng
 publications: 'author^=*Eskandani'
 
 teaser: >
