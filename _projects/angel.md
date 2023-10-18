@@ -7,10 +7,10 @@ rank: 3
 
 publications: 'projects^=*Angel'
 
-img: projects/propel.svg
+img: projects/angel.svg
 img_contains_title: true
-external_page: https://propel-prover.github.io/
-publications: 'projects^=*Propel'
+external_page: https://github.com/Angel-ML/angel
+publications: 'projects^=*Angel'
 
 profile:
     name: Angel
