@@ -1,7 +1,7 @@
 ---
 layout:page
 permalink:/impressum
-title:Impressum
+title: Impressum
 description:Legal note and contact.
 nav:true
 nav_rank:8
