@@ -3,7 +3,7 @@ layout: page
 permalink: /impressum
 title: Impressum
 description: Legal note and contact.
-nav: false
+nav: true
 ---
 
 ## Contact
