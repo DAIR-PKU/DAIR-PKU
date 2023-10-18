@@ -79,9 +79,17 @@ layout: default
       </div>
     {% endif %}
 
-    <div id="map-container" style="width: 300px; height: 200px;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Jnbw7t2pQU8JO0MGWwsmVwHUHpB1jbhJBWmqYIE81wA&cl=ffffff&w=a"></script>
-    </div>
+      <style>
+      #map-container {
+        width: 300px; /* 设置地图容器的宽度 */
+        margin: 0 auto; /* 设置左右外边距为 auto，实现居中 */
+      }
+      </style>
+
+      <div id="map-container">
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Jnbw7t2pQU8JO0MGWwsmVwHUHpB1jbhJBWmqYIE81wA&cl=ffffff&w=a"></script>
+      </div>
+
 
   </article>
 
