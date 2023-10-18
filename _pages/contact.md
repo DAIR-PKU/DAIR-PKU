@@ -7,7 +7,7 @@ nav_rank: 7
 description: Contact of the Programming Group.
 ---
 
-[<i class="fas fa-envelope"></i> guido.salvaneschi@unisg.ch](mailto:guido.salvaneschi@unisg.ch)
+[<i class="fas fa-envelope"></i> wentao.zhang@pku.edu.cn](mailto:wentao.zhang@pku.edu.cn)
 
 School of Computer Science\\
 c/o Prof. Dr. Guido Salvaneschi\\
