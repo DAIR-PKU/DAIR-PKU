@@ -7,18 +7,6 @@ nav: true
 nav_rank: 8
 ---
 
-## Contact
-
-School of Computer Science\
-c/o Prof. Dr. Guido Salvaneschi\
-Office 64-114\
-Torstrasse 25\
-9000 St. Gallen\
-SWITZERLAND
-
-Responsible for this website:\\
-Prof. Dr. Guido Salvaneschi\\
-[guido.salvaneschi@unisg.ch](mailto:guido.salvaneschi@unisg.ch)
 
 ## Photos of our lab
 
