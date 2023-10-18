@@ -4,6 +4,7 @@ permalink: /impressum
 title: Impressum
 description: Legal note and contact.
 nav: true
+nav_rank: 8
 ---
 
 ## Contact
