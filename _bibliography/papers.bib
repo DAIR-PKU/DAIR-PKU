@@ -63,7 +63,7 @@
 
 @article{Zakhour:2023:TypeSafe,
   acronym = {OOPSLA},
-  projects = {ScalaLoci},
+  projects = {Data-centric-ML},
   file = {papers/2023_Type-Safe-Dynamic-Placement-with-First-Class-Placed-Values.pdf},
   author = {Zakhour, George and Weisenburger, Pascal and Salvaneschi, Guido},
   title = {Type-Safe Dynamic Placement with First-Class Placed Values},
@@ -511,7 +511,7 @@
 
 @inproceedings{Giallorenzo:2021:Multiparty,
   acronym = {ECOOP},
-  projects = {ScalaLoci},
+  projects = {Data-centric-ML},
   file = {papers/2021_Multiparty-Languages-The-Choreographic-and-Multitier-Cases.pdf},
   author = {Giallorenzo, Saverio and Montesi, Fabrizio and Peressotti, Marco and Richter, David and Salvaneschi, Guido and Weisenburger, Pascal},
   title = {Multiparty Languages: The Choreographic and Multitier Cases},
@@ -579,7 +579,7 @@
 
 @thesis{Weisenburger:2020:Programming,
   type = {phdthesis},
-  projects = {ScalaLoci},
+  projects = {Data-centric-ML},
   author = {Weisenburger, Pascal},
   title = {A Programming Language for Distributed Systems},
   year = {2020},
@@ -587,7 +587,7 @@
   address = {Darmstadt, Germany},
   doi = {10.25534/tuprints-00013500},
   url = {http://tuprints.ulb.tu-darmstadt.de/13500/},
-  abstract = {Today's software, including many everyday services, such as online streaming, search engines and social networks, is widely distributed, running on top of a network of interconnected computers. Such distributed applications are traditionally developed as separate modules for each component in the distributed system. These modules react to events, like user input or messages from the network, and in turn produce new events for the other modules. Separation into different modules is problematic because combining modules is notoriously hard and requires extensive and time-consuming integration and manual implementation of communication forces programmers to program complex event-based communication schemes among hosts ? an activity which is often low-level and error-prone. The combination of the two results in obscure distributed data flows scattered among multiple modules, hindering reasoning about the system as a whole. For these reasons, despite most software today is distributed, the design and development of distributed systems remains surprisingly challenging.\par We present the ScalaLoci distributed programming language, our approach for taming the complexity of developing distributed applications via specialized programming language support. ScalaLoci addresses the issues above with a coherent model based on placement types that enables reasoning about distributed data flows otherwise scattered across multiple modules, supporting multiple software architectures via dedicated language features and abstracting over low-level communication details and data conversions.\par ScalaLoci does not force developers to modularize software along network boundaries as is traditionally the case when developing distributed systems. Instead, we propose a module system that supports encapsulating each (cross-host) functionality and defining it over abstract peer types. As a result, we disentangle modularization and distribution and we enable the definition of a distributed system as a composition of ScalaLoci modules, each representing a subsystem.\par Our case studies on distributed algorithms, distributed data structures, as well as on real-world distributed streaming engines show that ScalaLoci simplifies developing distributed systems, reduces error-prone communication code and favors early detection of bugs. As we demonstrate, the ScalaLoci module system allows the definition of reusable patterns of interaction in distributed software and enables separating the modularization and distribution concerns, properly separating functionalities in distributed systems.},
+  abstract = {Today's software, including many everyday services, such as online streaming, search engines and social networks, is widely distributed, running on top of a network of interconnected computers. Such distributed applications are traditionally developed as separate modules for each component in the distributed system. These modules react to events, like user input or messages from the network, and in turn produce new events for the other modules. Separation into different modules is problematic because combining modules is notoriously hard and requires extensive and time-consuming integration and manual implementation of communication forces programmers to program complex event-based communication schemes among hosts ? an activity which is often low-level and error-prone. The combination of the two results in obscure distributed data flows scattered among multiple modules, hindering reasoning about the system as a whole. For these reasons, despite most software today is distributed, the design and development of distributed systems remains surprisingly challenging.\par We present the Data-centric-ML distributed programming language, our approach for taming the complexity of developing distributed applications via specialized programming language support. Data-centric-ML addresses the issues above with a coherent model based on placement types that enables reasoning about distributed data flows otherwise scattered across multiple modules, supporting multiple software architectures via dedicated language features and abstracting over low-level communication details and data conversions.\par Data-centric-ML does not force developers to modularize software along network boundaries as is traditionally the case when developing distributed systems. Instead, we propose a module system that supports encapsulating each (cross-host) functionality and defining it over abstract peer types. As a result, we disentangle modularization and distribution and we enable the definition of a distributed system as a composition of Data-centric-ML modules, each representing a subsystem.\par Our case studies on distributed algorithms, distributed data structures, as well as on real-world distributed streaming engines show that Data-centric-ML simplifies developing distributed systems, reduces error-prone communication code and favors early detection of bugs. As we demonstrate, the Data-centric-ML module system allows the definition of reusable patterns of interaction in distributed software and enables separating the modularization and distribution concerns, properly separating functionalities in distributed systems.},
 }
 
 @article{Zhang:2020:Handling,
@@ -614,7 +614,7 @@
 
 @inproceedings{Sokolowski:2020:Leveraging,
   acronym = {SuperCompCloud},
-  projects = {ScalaLoci},
+  projects = {Data-centric-ML},
   file = {papers/2020_Leveraging-Hybrid-Cloud-HPC-with-Multitier-Reactive-Programming.pdf},
   author = {Sokolowski, Daniel and Lehr, Jan-Patrick and Bischof, Christian and Salvaneschi, Guido},
   title = {Leveraging Hybrid Cloud {HPC} with Multitier Reactive Programming},
@@ -659,7 +659,7 @@
 
 @article{Weisenburger:2020:Survey,
   acronym = {CSUR},
-  projects = {ScalaLoci},
+  projects = {Data-centric-ML},
   file = {papers/2020_A-Survey-of-Multitier-Programming.pdf},
   author = {Weisenburger, Pascal and Wirth, Johannes and Salvaneschi, Guido},
   title = {A Survey of Multitier Programming},
@@ -721,7 +721,7 @@
 
 @article{Weisenburger:2020:Implementing,
   acronym = {‹Programming›},
-  projects = {ScalaLoci},
+  projects = {Data-centric-ML},
   file = {papers/2020_Implementing-a-Language-for-Distributed-Systems.pdf},
   author = {Weisenburger, Pascal and Salvaneschi, Guido},
   title = {Implementing a Language for Distributed Systems: Choices and Experiences with Type Level and Macro Programming in {Scala}},
@@ -741,7 +741,7 @@
   keywords = {Distributed Programming, Multitier Programming, Type Level Programming, Macro System, Scala},
   code = {https://github.com/scala-loci},
   website = {https://scala-loci.github.io/},
-  abstract = {Multitier programming languages reduce the complexity of developing distributed systems by developing the distributed system in a single coherent code base. The compiler or the runtime separate the code for the components of the distributed system, enabling abstraction over low level implementation details such as data representation, serialization and network protocols. Our ScalaLoci language allows developers to declare the different components and their architectural relation at the type level, allowing static reasoning about about distribution and remote communication and guaranteeing static type safety across components. The compiler splits the multitier program into the component-specific code and automatically generates the communication boilerplate. Communication between components can be modeled by declaratively specifying data flows between components using reactive programming.\par In this paper, we report on the implementation of our design and our experience with embedding our language features into Scala as a host language. We show how a combination of Scala's advanced type level programming and its macro system can be used to enrich the language with new abstractions. We comment on the challenges we encountered and the solutions we developed for our current implementation and outline suggestions for an improved macro system to support the such use cases of embedding of domain-specific abstractions.},
+  abstract = {Multitier programming languages reduce the complexity of developing distributed systems by developing the distributed system in a single coherent code base. The compiler or the runtime separate the code for the components of the distributed system, enabling abstraction over low level implementation details such as data representation, serialization and network protocols. Our Data-centric-ML language allows developers to declare the different components and their architectural relation at the type level, allowing static reasoning about about distribution and remote communication and guaranteeing static type safety across components. The compiler splits the multitier program into the component-specific code and automatically generates the communication boilerplate. Communication between components can be modeled by declaratively specifying data flows between components using reactive programming.\par In this paper, we report on the implementation of our design and our experience with embedding our language features into Scala as a host language. We show how a combination of Scala's advanced type level programming and its macro system can be used to enrich the language with new abstractions. We comment on the challenges we encountered and the solutions we developed for our current implementation and outline suggestions for an improved macro system to support the such use cases of embedding of domain-specific abstractions.},
 }
 
 @inproceedings{Köhler:2019:Automated,
@@ -872,7 +872,7 @@
 
 @misc{Sokolowski:2019:Multitier,
   acronym = {REBLS},
-  projects = {ScalaLoci},
+  projects = {Data-centric-ML},
   file = {papers/2019_Multitier-Reactive-Programming-in-High-Performance-Computing.pdf},
   author = {Sokolowski, Daniel and Martens, Philipp and Salvaneschi, Guido},
   title = {Multitier Reactive Programming in High Performance Computing},
@@ -930,7 +930,7 @@
 
 @inproceedings{Weisenburger:2019:Multitier,
   acronym = {ECOOP},
-  projects = {ScalaLoci},
+  projects = {Data-centric-ML},
   file = {papers/2019_Multitier-Modules.pdf},
   author = {Weisenburger, Pascal and Salvaneschi, Guido},
   title = {Multitier Modules},
@@ -989,7 +989,7 @@
 
 @inproceedings{Weisenburger:2019:Developing,
   acronym = {DEBS},
-  projects = {ScalaLoci},
+  projects = {Data-centric-ML},
   file = {papers/2019_Developing-Distributed-Systems-with-Multitier-Programming.pdf},
   author = {Weisenburger, Pascal and Salvaneschi, Guido},
   title = {Tutorial: Developing Distributed Systems with Multitier Programming},
@@ -1031,10 +1031,10 @@
 
 @article{Weisenburger:2018:Distributed,
   acronym = {OOPSLA},
-  projects = {ScalaLoci},
-  file = {papers/2018_Distributed-System-Development-with-ScalaLoci.pdf},
+  projects = {Data-centric-ML},
+  file = {papers/2018_Distributed-System-Development-with-Data-centric-ML.pdf},
   author = {Weisenburger, Pascal and Köhler, Mirko and Salvaneschi, Guido},
-  title = {Distributed System Development with {ScalaLoci}},
+  title = {Distributed System Development with {Data-centric-ML}},
   year = {2018},
   month = oct,
   issue_date = {October 2018},
@@ -1052,7 +1052,7 @@
   keywords = {Reactive Programming, Placement Types, Distributed Programming, Scala, Multitier Programming},
   code = {https://github.com/scala-loci},
   website = {https://scala-loci.github.io/},
-  abstract = {Distributed applications are traditionally developed as separate modules, often in different languages, which react to events, like user input, and in turn produce new events for the other modules. Separation into components requires time-consuming integration. Manual implementation of communication forces programmers to deal with low-level details. The combination of the two results in obscure distributed data flows scattered among multiple modules, hindering reasoning about the system as a whole. The ScalaLoci distributed programming language addresses these issues with a coherent model based on placement types that enables reasoning about distributed data flows, supporting multiple software architectures via dedicated language features and abstracting over low-level communication details and data conversions. As we show, ScalaLoci simplifies developing distributed systems, reduces error-prone communication code and favors early detection of bugs.},
+  abstract = {Distributed applications are traditionally developed as separate modules, often in different languages, which react to events, like user input, and in turn produce new events for the other modules. Separation into components requires time-consuming integration. Manual implementation of communication forces programmers to deal with low-level details. The combination of the two results in obscure distributed data flows scattered among multiple modules, hindering reasoning about the system as a whole. The Data-centric-ML distributed programming language addresses these issues with a coherent model based on placement types that enables reasoning about distributed data flows, supporting multiple software architectures via dedicated language features and abstracting over low-level communication details and data conversions. As we show, Data-centric-ML simplifies developing distributed systems, reduces error-prone communication code and favors early detection of bugs.},
 }
 
 @article{Drechsler:2018:ThreadSafe,
@@ -1127,7 +1127,7 @@
 
 @inproceedings{Weisenburger:2018:Static,
   acronym = {FTfJP},
-  projects = {ScalaLoci},
+  projects = {Data-centric-ML},
   file = {papers/2018_Static-Latency-Tracking-with-Placement-Types.pdf},
   author = {Weisenburger, Pascal and Reinhard, Tobias and Salvaneschi, Guido},
   title = {Static Latency Tracking with Placement Types},
@@ -1330,7 +1330,7 @@
 
 @inproceedings{Weisenburger:2016:Multitier,
   acronym = {SPLASH DS},
-  projects = {ScalaLoci},
+  projects = {Data-centric-ML},
   file = {papers/2016_Multitier-Reactive-Abstractions.pdf},
   author = {Weisenburger, Pascal},
   title = {Multitier Reactive Abstractions},
