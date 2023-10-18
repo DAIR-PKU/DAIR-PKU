@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /uzh-summer-school-2022
-title: UZH Summer School 2022
+title: Sources
 description: Course contents of the cool programming lectures at the University Zurich Summer School 2022.
-nav: false
+nav: true
+nav_rank: 9
 ---
 
 ## Programming Languages - A Journey into Abstraction and Composition
