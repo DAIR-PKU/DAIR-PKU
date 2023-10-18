@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact
 nav: true
-nav_rank: 6
+nav_rank: 7
 description: Contact of the Programming Group.
 ---
 
