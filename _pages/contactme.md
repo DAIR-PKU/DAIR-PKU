@@ -3,7 +3,7 @@ layout: page
 title: Contactme
 permalink: /contact
 nav: true
-nav_rank: 7
+nav_rank: 6
 description: Contact me.
 ---
 
