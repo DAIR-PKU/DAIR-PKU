@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /impressum
+layout:page
+permalink:/impressum
 title:Impressum
 description:Legal note and contact.
 nav:true
