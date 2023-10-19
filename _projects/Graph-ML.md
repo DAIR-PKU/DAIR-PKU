@@ -1,5 +1,5 @@
 ---
-layout: open-positions 
+layout: about 
 inline: false
 title: graph-ML
 description: Graph Machine Learning.
