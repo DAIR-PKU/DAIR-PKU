@@ -27,10 +27,12 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 > <i class="fas fa-quote-left"></i>
-> “Where should I go?” –&nbsp;Alice. <br />
-> “That depends on where you want to end up.” –&nbsp;The&nbsp;Cheshire&nbsp;Cat.
+> “How to prepare high quality and quantity data for ML?” <br />
 > <i class="fas fa-quote-right"></i><br />
-> —&nbsp;Lewis Carroll
+> <i class="fas fa-quote-left"></i>
+> “How to make ML easier and faster?” <br />
+> <i class="fas fa-quote-right"></i><br />
+> —&nbsp;DAIR Group
 
 Welcome to the DAIR Group!
 We are part of the [Center of Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/){: target="_blank"} at [Peking University (PKU)](https://www.pku.edu.cn/){: target="_blank"}. 
