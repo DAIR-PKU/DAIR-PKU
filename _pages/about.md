@@ -33,7 +33,7 @@ social: false  # includes social icons at the bottom of the page
 > **Q2**: How to make DCML easier and faster?
 > <i class="fas fa-quote-right"></i><br />
 > <i class="fas fa-quote-left"></i>
-> **Q3**: How to better apply DCML to AI4Science and AI4Indystry?
+> **Q3**: How to better apply DCML to AI4Science and AI4Industry?
 > <i class="fas fa-quote-right"></i><br />
 > —&nbsp;DAIR Group
 
