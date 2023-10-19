@@ -21,15 +21,15 @@
 
     {% include footer.html %}
 
-    {% minibundle js %}
-    destination_path: 'assets/css/bundle'
-    baseurl: '{{ site.baseurl }}/'
-    assets:
-    - ../node_modules/mdbootstrap/js/jquery
-    - ../node_modules/mdbootstrap/js/bootstrap
-    - ../node_modules/mdbootstrap/js/popper
-    - ../node_modules/mdbootstrap/js/mdb
-    - js/common
-    {% endminibundle %}
+    <!-- JavaScripts -->
+    {% include scripts/jquery.html %}
+    {% include scripts/bootstrap.html %}
+    {% include scripts/masonry.html %}
+    {% include scripts/misc.html %}
+    {% include scripts/badges.html %}
+    {% include scripts/mathjax.html %}
+    {% include scripts/analytics.html %}
+    {% include scripts/progressBar.html %}
+    {% include scripts/wechatModal.html %}
   </body>
 </html>
