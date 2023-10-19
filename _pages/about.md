@@ -27,7 +27,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 > <i class="fas fa-quote-left"></i>
-> “How to prepare high quality and quantity data for ML?” <br />
+> How to prepare high quality and quantity data for ML?
 > <i class="fas fa-quote-right"></i><br />
 > <i class="fas fa-quote-left"></i>
 > “How to make ML easier and faster?” <br />
