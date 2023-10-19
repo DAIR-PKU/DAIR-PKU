@@ -27,7 +27,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 > <i class="fas fa-quote-left"></i>
-> **Q1**(DCML): “How to improve the data quality and quantity for (graph) ML?“ <br />
+> **Q1**(DCML): “How to improve the data quality and quantity for (graph) ML with low time and money costs?“ <br />
 > **Q2**(ML Systems): “How to make DCML easier and faster?“<br />
 > **Q3**(Interdisciplinary Applications): “How to better apply DCML to AI4Science and AI4Industry?“
 > <i class="fas fa-quote-right"></i><br />
