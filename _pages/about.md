@@ -27,13 +27,9 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 > <i class="fas fa-quote-left"></i>
-> **Q1**: How to prepare high quality and quantity data for (graph) ML?
-> <i class="fas fa-quote-right"></i><br />
-> <i class="fas fa-quote-left"></i>
-> **Q2**: How to make DCML easier and faster?
-> <i class="fas fa-quote-right"></i><br />
-> <i class="fas fa-quote-left"></i>
-> **Q3**: How to better apply DCML to AI4Science and AI4Industry?
+> **Q1**(DCML): “How to improve the data quality and quantity for (graph) ML?“ <br />
+> **Q2**(ML Systems): “How to make DCML easier and faster?“<br />
+> **Q3**(Interdisciplinary Applications): “How to better apply DCML to AI4Science and AI4Industry?“
 > <i class="fas fa-quote-right"></i><br />
 > —&nbsp;DAIR Group
 
