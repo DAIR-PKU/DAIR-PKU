@@ -27,10 +27,13 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 > <i class="fas fa-quote-left"></i>
-> How to prepare high quality and quantity data for ML?
+> **DCML**: How to prepare high quality and quantity data for (graph) ML?
 > <i class="fas fa-quote-right"></i><br />
 > <i class="fas fa-quote-left"></i>
-> “How to make ML easier and faster?” <br />
+> **ML Systems**: How to make DCML easier and faster?
+> <i class="fas fa-quote-right"></i><br />
+> <i class="fas fa-quote-left"></i>
+> **Interdisciplinary Applications**: How to better apply DCML to AI4Science and AI4Indystry?
 > <i class="fas fa-quote-right"></i><br />
 > —&nbsp;DAIR Group
 
