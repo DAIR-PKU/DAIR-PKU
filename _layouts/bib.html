@@ -154,5 +154,11 @@
       <p>{{ entry.abstract | regex_replace: '\s*\\par\s*', '</p><p>' | replace: '\mathbbN', 'ℕ' | replace: '\mathcalO', '𝓞' | replace: '\log', 'log' }}</p>
     </div>
     {% endif %}
+    {% if entry.bibtex_show -%}
+    <!-- Hidden bibtex block -->
+    <div class="bibtex hidden">
+      {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
+    </div>
+    {%- endif %}
   </div>
 </div>
